@@ -9,6 +9,8 @@
     <artifactId>SEPM_EXP7</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <packaging>war</packaging> <!-- This will generate a WAR file -->
+
     <properties>
         <maven.compiler.source>17</maven.compiler.source> <!-- Set to your Java version -->
         <maven.compiler.target>17</maven.compiler.target>
